@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>cmdb_ext_t</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>cmdb_ext_t</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">39fe295835110010f87721e60c20ecec</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-11-19 17:58:19</sys_created_on>
+        <sys_id>ac4cf11c35990010f87721e60c20ec07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ext_t</sys_name>
+        <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+        <sys_update_name>sys_wizard_answer_ac4cf11c35990010f87721e60c20ec07</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:58:19</sys_updated_on>
+        <table/>
+        <target_url>x_nutr_cmdb_extnyp_cmdb_ext_t.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

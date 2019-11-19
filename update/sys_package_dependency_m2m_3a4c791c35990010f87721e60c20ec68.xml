@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">e8fee55835110010f87721e60c20ecb6</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-11-19 17:58:28</sys_created_on>
+        <sys_id>3a4c791c35990010f87721e60c20ec68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:58:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

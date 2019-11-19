@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_nutr_cmdb_extnyp.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_nutr_cmdb_extnyp.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-11-19 17:55:03</sys_created_on>
+        <sys_id>708b751035990010f87721e60c20ec94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nutr_cmdb_extnyp.user</sys_name>
+        <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+        <sys_update_name>sys_user_role_708b751035990010f87721e60c20ec94</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:55:03</sys_updated_on>
+    </sys_user_role>
+</record_update>

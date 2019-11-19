@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-11-19 17:58:44</sys_created_on>
+        <sys_id>2a5cb15c35990010f87721e60c20ec39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nutr_cmdb_extnyp_cmdb_ext_t.x_nutr_cmdb_extnyp.user</sys_name>
+        <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+        <sys_security_acl display_value="x_nutr_cmdb_extnyp_cmdb_ext_t">125cb15c35990010f87721e60c20ec36</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2a5cb15c35990010f87721e60c20ec39</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:58:44</sys_updated_on>
+        <sys_user_role display_value="x_nutr_cmdb_extnyp.user" name="x_nutr_cmdb_extnyp.user">708b751035990010f87721e60c20ec94</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

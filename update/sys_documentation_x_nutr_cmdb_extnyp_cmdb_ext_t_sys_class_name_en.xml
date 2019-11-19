@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="x_nutr_cmdb_extnyp_cmdb_ext_t">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Class</label>
+            <language>en</language>
+            <name>x_nutr_cmdb_extnyp_cmdb_ext_t</name>
+            <plural>Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2019-11-19 17:58:25</sys_created_on>
+            <sys_id>824cf51c35990010f87721e60c20ec29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
+            <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+            <sys_update_name>sys_documentation_x_nutr_cmdb_extnyp_cmdb_ext_t_sys_class_name_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2019-11-19 17:58:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
