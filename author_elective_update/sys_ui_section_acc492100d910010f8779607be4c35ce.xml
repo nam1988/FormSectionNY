@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Section 2" section_id="acc492100d910010f8779607be4c35ce" sys_domain="global" table="x_nutr_cmdb_extnyp_cmdb_ext_t" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_nutr_cmdb_extnyp_cmdb_ext_col</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:45:35</sys_created_on>
+            <sys_id>44d4d2100d910010f8779607be4c3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_nutr_cmdb_extnyp_cmdb_ext_t" sys_domain="global" view="Default view">acc492100d910010f8779607be4c35ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Section 2</caption>
+            <header>false</header>
+            <name>x_nutr_cmdb_extnyp_cmdb_ext_t</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:45:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acc492100d910010f8779607be4c35ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Section 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+            <sys_update_name>sys_ui_section_acc492100d910010f8779607be4c35ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:45:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</application>
+        <file_path/>
+        <instance_id>17e17fc7053232003399ec9748dcb824</instance_id>
+        <instance_name>instance-7eeee15835110010f87721e60c20ecc0</instance_name>
+        <name>sys_ui_section_acc492100d910010f8779607be4c35ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Section 2" section_id="acc492100d910010f8779607be4c35ce" sys_domain="global" table="x_nutr_cmdb_extnyp_cmdb_ext_t" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_nutr_cmdb_extnyp_cmdb_ext_col</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:45:35</sys_created_on>
+            <sys_id>44d4d2100d910010f8779607be4c3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_nutr_cmdb_extnyp_cmdb_ext_t" sys_domain="global" view="Default view">acc492100d910010f8779607be4c35ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Section 2</caption>
+            <header>false</header>
+            <name>x_nutr_cmdb_extnyp_cmdb_ext_t</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-19 19:45:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acc492100d910010f8779607be4c35ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Section 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+            <sys_update_name>sys_ui_section_acc492100d910010f8779607be4c35ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-19 19:45:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-726028997</payload_hash>
+        <record_name>cmdb_ext_t</record_name>
+        <reverted_from/>
+        <source>a188525c0d910010f8779607be4c35ee</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 20:02:14</sys_created_on>
+        <sys_id>bb98969c0d910010f8779607be4c35cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e854222dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 20:02:14</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3b98969c2c910010971e331e4de750cb</update_guid>
+        <update_guid_history>3b98969c2c910010971e331e4de750cb:0,1fa7d2d4ed910010bdc53782740d6410:2078120615,9e16d6549591001003000860c7a4a29f:0,78655a10a1910010bd2bf5511e3139ff:2078120615,48d4d210f4910010f5dd9c8efb696987:1840622591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 20:03:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0d57ac8f406b4c0bb613690277418d59</sys_id>
+        <sys_metadata>acc492100d910010f8779607be4c35ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 2</sys_name>
+        <sys_package display_value="cmdb_extnyp4" source="x_nutr_cmdb_extnyp">877b7d5835590010f87721e60c20ecfd</sys_package>
+        <sys_parent display_value="CMDB Extnyp CMDB Ext T">a84cf11c35990010f87721e60c20ec05</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="cmdb_extnyp4">877b7d5835590010f87721e60c20ecfd</sys_scope>
+        <sys_scope_delete display_value="">3279d58399574aa4ac755b787677af44</sys_scope_delete>
+        <sys_update_name>sys_ui_section_acc492100d910010f8779607be4c35ce</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_acc492100d910010f8779607be4c35ce">bb98969c0d910010f8779607be4c35cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 20:03:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

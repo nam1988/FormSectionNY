@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-11-19 19:45:22</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-19 19:45:22</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>7cc492100d910010f8779607be4c35cf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_nutr_cmdb_extnyp_cmdb_ext_t" name="x_nutr_cmdb_extnyp_cmdb_ext_t" sys_domain="global" view="Default view">e0c492100d910010f8779607be4c35cd</sys_ui_form>
-            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_nutr_cmdb_extnyp_cmdb_ext_t" sys_domain="global" view="Default view">acc492100d910010f8779607be4c35ce</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-19 19:45:22</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_nutr_cmdb_extnyp_cmdb_ext_t</name>
             <roles/>
